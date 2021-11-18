@@ -1,3 +1,4 @@
 # ScriptingBot
-This repository contains all the codes writting during various projects.
+This repository contains all the codes written during various projects. Just for personal future reference.
+
 
